@@ -20,7 +20,7 @@ class CreateProductsTable extends Migration
             $table->integer('price');
             $table->integer('stock');
             $table->string('image');
-            $table->enum('status',['pulish','draft']);
+            $table->enum('status',['publish','draft']);
             $table->timestamps();
         });
     }
