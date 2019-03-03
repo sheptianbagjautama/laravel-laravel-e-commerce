@@ -2,6 +2,18 @@
 
 ### Fitur Fitur Yang Ada Dalam Aplikasi Ini Adalah :
 
+Admin :
+- Email     : sheptian@gmail.com
+- Password  : komputer1
+
+Customer :
+- Email     : rahma@gmail.com
+- Password  : Komputer1
+
+Upload file sql agar adanya data dummy.
+
+Admin
+
 Roel Admin & Customer 
 - Login + Logout
 
